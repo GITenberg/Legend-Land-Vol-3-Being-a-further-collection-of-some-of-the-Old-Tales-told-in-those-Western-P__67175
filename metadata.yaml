@@ -1,5 +1,8 @@
 _repo: Legend-Land-Vol-3-Being-a-further-collection-of-some-of-the-Old-Tales-told-in-those-Western-P__67175
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67175-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67175#Legend-Land-Vol-3-Being-a-further-collection-of-some-of-the-Old-Tales-told-in-those-Western-P_
 gutenberg_issued: '2022-01-16'
 identifiers:
   gutenberg: '67175'
